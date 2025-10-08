@@ -9,7 +9,7 @@ please put it with the aero.msstyle or it behave strange.
 ## fixes
 fix dark font in start bar when using dark theme.  
 ![bar](bar.png)  
-fix start bar right click meun does not show line seperates.(using window 8.1 metro style)  
+fix start bar right click meun does not show line seperates.(using window 10 style)  
 ![seperate](seperate.png)  
 fix desktop right click meun does not show line seperates.(using window 8.1 metro style)  
 ![desktop](desktop.png)
