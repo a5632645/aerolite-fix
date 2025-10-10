@@ -12,7 +12,9 @@ fix dark font in start bar when using dark theme.
 fix start bar right click meun does not show line seperates.(using window 10 style)  
 ![seperate](seperate.png)  
 fix desktop right click meun does not show line seperates.(using window 8.1 metro style)  
-![desktop](desktop.png)
+![desktop](desktop.png)  
+## how did you do that?
+i made this by [msstyleeditor](https://github.com/nptr/msstyleEditor) and been using this msstyle for about 1.5 years, i can't remember what i have done to it.  
 ## issue
 dark theme still have light components in exepolrer.exe  
-strange transpant white lines everywhere.(such as notify center)  
+still have strange transpant block everywhere.(such as notify center)  
